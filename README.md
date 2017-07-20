@@ -1,5 +1,5 @@
 # TheShop
-The Shop. Free e-commerce PSD template has been created by Victoria Slavinskaya from iqdesign.me
+The Shop. Free e-commerce PSD template has been created by Victoria Slavinskaya from http://iqdesign.me
 
 The Shop is a free PSD template for multi purpose e-commerce store. It is a responsive, creative and fresh look design package of 34 awesome PSD 
 
